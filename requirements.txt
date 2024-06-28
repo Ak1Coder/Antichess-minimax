@@ -1,0 +1,4 @@
+pytest
+pytest-timeout 
+pylint>=2.13 
+numpy>=1.23.5
